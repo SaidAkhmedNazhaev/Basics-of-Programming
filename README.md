@@ -2,7 +2,7 @@
 
 #LabWorks
 
-1. [Lab №1](/drive/1c6IVuks3tQOUZ4waK7_5wq60e0ZW2ojC#scrollTo=oBNvIBpMYOC7)
+1. [Lab №1](/task03_02_01ipynb)
 
 2. [Lab №2]()
 
