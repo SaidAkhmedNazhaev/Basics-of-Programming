@@ -2,7 +2,7 @@
 
 #LabWorks
 
-1. [Lab №1](/task03_02_01ipynb)
+1. [Lab №1]()
 
 2. [Lab №2]()
 
