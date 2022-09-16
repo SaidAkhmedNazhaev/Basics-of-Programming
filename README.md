@@ -2,8 +2,8 @@
 
 #LabWorks
 
-Lab №1
+1. [Lab №1]
 
-Lab №2
+2. [Lab №2]
 
-Lab №3
+3. [Lab №3]
