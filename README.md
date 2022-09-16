@@ -6,4 +6,4 @@
 
 2. [Lab №2]()
 
-3. [Lab №3](/Lab3.ipynb)
+3. [Lab №3](/tesk_03_02.ipynb)
