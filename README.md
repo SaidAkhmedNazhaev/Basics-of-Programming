@@ -1,9 +1,9 @@
-# Basics-of-Programming
+#Программирование на языке высокого уровня (Python).
 
-#LabWorks
+#Лабораторные работы:
 
-1. [Lab №1]()
+№1 [Lab №1]()
 
-2. [Lab №2]()
+№2 [Lab №2]()
 
-3. [Lab №3](/tesk_03_02.ipynb)
+№3 [Lab №3](/tesk_03_02.ipynb)
